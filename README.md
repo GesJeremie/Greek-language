@@ -1,7 +1,7 @@
 # Greek-language
-I will wake up / Fa ksipniso
+I will wake up / Tha ksipniso
 
-I'm going to sleep / Fa kimiho
+I'm going to sleep / Tha kimiho
 
 I want to read a book / Thelo na diavaso vivlio
 
@@ -16,3 +16,5 @@ Red /  Kokino
 I want to eat / Thelo na fao 
 
 You are beautiful / Ise omorfi
+
+Yesterday / htes
