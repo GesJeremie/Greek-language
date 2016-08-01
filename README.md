@@ -19,4 +19,4 @@ You are beautiful / Ise omorfi
 
 Yesterday / htes
 
-Have a good one / Ta leme
+Have a good one / Ta leme (Ta pame)
